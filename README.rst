@@ -23,7 +23,7 @@ Static responses aren't very different than dynamic ones.
 
 If you're running a top-tier application, optimizing for delivery and reducing
 frontend load, you will want to explore using a CDN with
-`Django-Storages <http://django-storages.readthedocs.org/en/latest/>`_.
+`Django-Storages <https://django-storages.readthedocs.io/en/latest/>`_.
 
 
 Usage
